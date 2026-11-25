@@ -1,0 +1,5 @@
+﻿# Generated output & Python cache
+blocked_ips.txt
+__pycache__/
+*.pyc
+.vscode/
